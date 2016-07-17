@@ -1,0 +1,19 @@
+<table class="table table-hover">
+ <thead>
+   <td>Name</td>
+   <td>Age</td>
+   <td>Role</td>
+   <td>Image</td>
+ </thead>
+ <% _.each(collection, function(model) { %>
+ 
+ <tr>
+   <td><%=model.name%></td>  
+   <td><%=model.age%></td>
+   <td><%=model.role%></td>
+   <td><img src='<%=model.image%>'></td>
+<% }); %> 
+</table>
+
+
+

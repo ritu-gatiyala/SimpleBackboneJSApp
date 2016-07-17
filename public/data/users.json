@@ -1,0 +1,23 @@
+[
+ {
+   "name":"ritu",
+   "age":26,
+   "role":"Actor",
+   "image":"assets/images/6.png"
+
+ },
+ {
+   "name":"sumanth",
+   "age":20,
+   "role":"Actor",
+   "image":"assets/images/4.png"
+
+ },
+ {
+   "name":"pallavi",
+   "age":99,
+   "role":"Actor",
+   "image":"assets/images/3.jpg"
+
+ }
+]
